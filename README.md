@@ -15,5 +15,7 @@
 ## 赞助支持
 
 如果喜欢这个知识库，可以点个star或者给请作者喝一杯coffee
-![WX Pay](images/image (1).png)
-![Ali Pay](images/image (2).png)
+
+![WX Pay](<images/image (1).png>)
+
+![Ali Pay](<images/image (2).png>)
